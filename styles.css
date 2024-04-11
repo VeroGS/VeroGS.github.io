@@ -25,20 +25,16 @@
             padding: 20px;
             margin: 20px;
             background-color: #fff;
+            color: rgb(243, 93, 128)
+        }
+        h1{
+            color: rgb(203, 43, 208)
         }
         h2 {
-            color: #333;
+            color: #aa2828;
         }
         p {
-            color: #666;
+            color: rgb(142, 59, 230);
         }
-article{
-    color: rgb(243, 93, 128);
-}
-p{
-    color: rgb(142, 59, 230);
-}
-h1{
-    color: rgb(203, 43, 208);
-}
+
 
